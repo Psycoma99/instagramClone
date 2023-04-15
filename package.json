@@ -1,5 +1,5 @@
 {
-  "name": "instagram_clone",
+  "name": "instagramClone",
   "version": "1.0.0",
   "description": "clone coding for instagram",
   "main": "index.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rjs595959/instagram_clone.git"
+    "url": "git+https://github.com/psycoma99/instagramClone.git"
   },
   "author": "EvoDev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rjs595959/instagram_clone/issues"
+    "url": "https://github.com/psycoma99/instagramClone/issues"
   },
-  "homepage": "https://github.com/rjs595959/instagram_clone#readme",
+  "homepage": "https://github.com/psycoma99/instagramClone#readme",
   "devDependencies": {
     "concurrently": "^7.2.1",
     "husky": "^8.0.1",
